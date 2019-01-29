@@ -1,0 +1,2 @@
+# CompareTriples
+My Hackerrank Solution
